@@ -16,7 +16,7 @@ function randomListIndex(array){
     return Math.floor(Math.random() * length)
 }
 
-prosper.addEventListener('click', () => prosperAudio.play())
+prosper.addEventListener('click', () => {prosperAudio.play()})
 
 spockBtn.addEventListener('click', () => {
     spock[randomListIndex(spock)].play()
