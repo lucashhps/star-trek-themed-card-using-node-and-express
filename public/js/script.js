@@ -9,7 +9,7 @@ let audio = new Audio('https://www.trekcore.com/audio/background/tos_bridge_1_ac
 let keypress1 = new Audio('https://trekcore.com/audio/toscomputer/tos_keypress1.mp3')
 let keypress8 = new Audio('https://trekcore.com/audio/toscomputer/tos_keypress8.mp3')
 let spock = [new Audio('https://trekcore.com/audio/other/voice_spock_fascinating.mp3'), new Audio('https://trekcore.com/audio/other/voice_spock_mostillogical.mp3'), new Audio('https://trekcore.com/audio/other/voice_spock_logicimpeccable.mp3'), new Audio('https://trekcore.com/audio/other/voice_spock_vulcansneverbluff.mp3')]
-let prosperAudio = new Audio('http://soundfxcenter.com/television/star-trek/8d82b5_Spock_Live_Long_And_Prosper_Sound_Effect.mp3')
+let prosperAudio = new Audio('https://www.mediacollege.com/downloads/sound-effects/star-trek/tos/spock/Spock_Livelong.mp3')
 
 function randomListIndex(array){
     length = array.length
