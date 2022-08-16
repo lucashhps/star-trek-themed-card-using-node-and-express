@@ -13,12 +13,6 @@ body {
     padding: 10px;
 }
 
-img {
-    background: #000;
-    width: 100px;
-    height: 100px;
-}
-
 @keyframes move-twink-back {
     from {background-position:0 0;}
     to {background-position:-10000px 5000px;}
